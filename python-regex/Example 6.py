@@ -1,0 +1,23 @@
+# GROUPING WITH PARENTHESES
+import re
+print("="*70)
+print("GROUPING WITH PARENTHESES")
+print("="*70)
+phoneNumRegex = re.compile(r'(\d\d\d)-(\d\d\d-\d\d\d\d)')
+print("Pattern to search : ", end="")
+print(phoneNumRegex)
+search_string = "'My number is 123-456-7890.'"
+mo = phoneNumRegex.search(search_string)
+print("Search String : " ,  search_string )
+print("mo.group(1) : " , end="")
+print(mo.group(1))
+print("mo.group(2) : " , end="")
+print(mo.group(2))
+print("mo.group(0) : " , end="")
+print(mo.group(0))
+print("mo.group() : " , end="")
+print(mo.group())
+print("areaCode, mainNumber = mo.groups()" )
+areaCode, mainNumber = mo.groups()
+print("Area Code : ", areaCode)
+print("Main Number : " , mainNumber)
