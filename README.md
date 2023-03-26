@@ -9,9 +9,16 @@
 
 -  os
 -  shutil
+- glob
+- pathlib
 - time
 - subprocess
 - random
+- statistics
+- collections
+- math
+- numpy
+- selenium
 
 
 ## Programs
@@ -73,3 +80,5 @@
 | Generate Timestamps | [timestamp.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/timestamp.py)  |
 | Browser Control using Selenium Example 1 | [web_1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/web_1.py)  |
 | Browser Control using Selenium Example 2 | [web_2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/web_2.py)  |
+| Move All Specfic Types Files | [Example 1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Pathlib/Example%201.py)  |
+| User Current and Home Directory | [Example 2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Pathlib/Example%202.py)  |
