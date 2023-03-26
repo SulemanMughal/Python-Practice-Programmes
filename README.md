@@ -88,3 +88,4 @@
 | Generate Random Password | [random_password.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/random_password.py)  |
 | Randomization | [randomization.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/randomization.py)  |
 | Generate Secure Password | [secure_password.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/secure_password.py)  |
+| Python Reserved Keywords | [Python Reserved Keywords](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Reserved%20Keywords/python%20reserved%20keywords.md)  |
