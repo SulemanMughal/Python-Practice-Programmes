@@ -89,3 +89,8 @@
 | Randomization | [randomization.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/randomization.py)  |
 | Generate Secure Password | [secure_password.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/secure_password.py)  |
 | Python Reserved Keywords | [Python Reserved Keywords](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Reserved%20Keywords/python%20reserved%20keywords.md)  |
+| Capitalize Strings | [Example 1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%201.py)  |
+| Center String | [Example 2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%202.py)  |
+| Find substring in a string | [Example 3.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%203.py)  |
+| Encode String | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%204.py)  |
+| Check String ends with a specific substring | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%205.py)  |
