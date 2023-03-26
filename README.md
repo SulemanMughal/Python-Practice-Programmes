@@ -21,6 +21,9 @@
 - math
 - numpy
 - selenium
+- google_trans_new 
+- streamlit 
+- pandas 
 
 
 ## Programs
@@ -94,3 +97,4 @@
 | Find substring in a string | [Example 3.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%203.py)  |
 | Encode String | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%204.py)  |
 | Check String ends with a specific substring | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%205.py)  |
+| Trnaslator | [python-translator.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Translator/python-translator.py)  |
