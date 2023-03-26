@@ -26,7 +26,7 @@
 - pandas 
 - openpyxl
 - re
-
+- socket
 
 ## Programs
 | Program  | Link |
@@ -119,3 +119,5 @@
 | Python Regex : REPLACE new lines with spaces   | [Example 10.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2010.py)  |
 | Python Regex : MATCH ANY DIGIT   | [Example 11.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2011.py)  |
 | Python Regex : MATCH NUMBER WITH SPECIFIC NUMBER OF DIGITS   | [Example 12.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2012.py)  |
+| Python Sockets : Client | [echo-client.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-socket/echo-client.py)  |
+| Python Sockets : Server | [echo-server.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-socket/echo-server.py)  |
