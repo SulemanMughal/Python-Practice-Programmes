@@ -25,6 +25,7 @@
 - streamlit 
 - pandas 
 - openpyxl
+- re
 
 
 ## Programs
@@ -106,3 +107,15 @@
 | Python Excel : Getting Rows and Columns from the Sheets  | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%205.py)  |
 | Python Excel : To access the values of cells in a particular row or column, you can also use a Worksheet object’s rows and columns attribute  | [Example 6.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%206.py)  |
 | Python Excel : Load and read an excel file  | [Example 7.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%207.py)  |
+| Python Regex : character class [] searching   | [Example 1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%201.py)  |
+| Python Regex : any character . searching   | [Example 2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%202.py)  |
+| Python Regex : searching at the beginning of a string   | [Example 3.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%203.py)  |
+| Python Regex : searching at the end of a string   | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%204.py)  |
+| Python Regex : searching a specific pattern   | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%205.py)  |
+| Python Regex : GROUPING WITH PARENTHESES   | [Example 6.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%206.py)  |
+| Python Regex : MATCH A PARENTHESIS IN YOUR TEXT   | [Example 7.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%207.py)  |
+| Python Regex : MATCH ONE OF MANY EXPRESSIONS   | [Example 8.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%208.py)  |
+| Python Regex : MATCH ONE OF SEVERAL PATTERNS AS PART OF YOUR REGEX   | [Example 9.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%209.py)  |
+| Python Regex : REPLACE new lines with spaces   | [Example 10.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2010.py)  |
+| Python Regex : MATCH ANY DIGIT   | [Example 11.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2011.py)  |
+| Python Regex : MATCH NUMBER WITH SPECIFIC NUMBER OF DIGITS   | [Example 12.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-regex/Example%2012.py)  |
