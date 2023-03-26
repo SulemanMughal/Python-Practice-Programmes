@@ -14,6 +14,8 @@
 - time
 - subprocess
 - random
+- string
+- turtle
 - statistics
 - collections
 - math
@@ -82,3 +84,7 @@
 | Browser Control using Selenium Example 2 | [web_2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/web_2.py)  |
 | Move All Specfic Types Files | [Example 1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Pathlib/Example%201.py)  |
 | User Current and Home Directory | [Example 2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Pathlib/Example%202.py)  |
+| Generate Random Numbers | [generateRandomNumber.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/generateRandomNumber.py)  |
+| Generate Random Password | [random_password.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/random_password.py)  |
+| Randomization | [randomization.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/randomization.py)  |
+| Generate Secure Password | [secure_password.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Randomization/secure_password.py)  |
