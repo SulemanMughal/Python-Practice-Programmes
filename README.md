@@ -7,9 +7,11 @@
 - Python
 ## Libraries
 
--  Pandas
--  Numpy
--  Matplotlib
+-  os
+-  shutil
+- time
+- subprocess
+- random
 
 
 ## Programs
@@ -27,3 +29,4 @@
 | Move File | [move_file.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/File%20Manager/move_file.py)  |
 | Open File | [open_file.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/File%20Manager/open_file.py)  |
 | Remove Directory | [remove_directory.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/File%20Manager/remove_directory.py)  |
+| Guess Number | [guessNumber.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Guess%20Number/guessNumber.py)  |
