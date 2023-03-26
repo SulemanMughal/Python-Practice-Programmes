@@ -24,6 +24,7 @@
 - google_trans_new 
 - streamlit 
 - pandas 
+- openpyxl
 
 
 ## Programs
@@ -98,3 +99,10 @@
 | Encode String | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%204.py)  |
 | Check String ends with a specific substring | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Strings/Example%205.py)  |
 | Trnaslator | [python-translator.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Translator/python-translator.py)  |
+| Python Excel : Load an excel file and get an active sheet  | [Example 1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%201.py)  |
+| Python Excel : Navigate through different cells  | [Example 2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%202.py)  |
+| Python Excel : Determine size of sheet  | [Example 3.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%203.py)  |
+| Python Excel : Converting Between Column Letters and Numbers  | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%204.py)  |
+| Python Excel : Getting Rows and Columns from the Sheets  | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%205.py)  |
+| Python Excel : To access the values of cells in a particular row or column, you can also use a Worksheet object’s rows and columns attribute  | [Example 6.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%206.py)  |
+| Python Excel : Load and read an excel file  | [Example 7.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/python-excel/Example%207.py)  |
