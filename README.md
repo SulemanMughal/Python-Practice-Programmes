@@ -36,3 +36,40 @@
 | List Comprehension Example 4  | [Example 4.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%204.py)  |
 | List Comprehension Example 5  | [Example 5.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%205.py)  |
 | List Comprehension Example 6  | [Example 6.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%206.py)  |
+| Aggregate Functions  | [Aggregate Functions Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Aggregate%20Functions%20Example.py)  |
+| Anagrame Program  | [Anagrame Program.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Anagram.py)  |
+| Analytical Funtions  | [Analytical Funtions Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Analytical%20Funtions%20Example.py)  |
+| Filter Functions  | [Filter Function Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Filter%20Function%20Example.py)  |
+| Lambda Function  | [Lambda Function Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Lambda%20Function%20Example.py)  |
+| Map Function  | [Map Function Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Map%20Function%20Example.py)  |
+| Numpy Module  | [Numpy Module Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Numpy%20Module%20Example.py)  |
+| Zip Function  | [Zip Function Example.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/Zip_Function_Example.py)  |
+| Binary To Decimal Conversion  | [binaryTodecimal.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/binaryTodecimal.py)  |
+| Character Frequency Counter  | [characterFrequency.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/characterFrequency.py)  |
+| Data Types Checker  | [checkDataTypes.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/checkDataTypes.py)  |
+| Dictionary Comprehension  | [comprehensiveDictionary.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/comprehensiveDictionary.py)  |
+| Set Comprehension  | [comprehensiveSet.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/comprehensiveSet.py)  |
+| Convert String to Lowercase | [convertToLowerString.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/convertToLowerString.py)  |
+| Convert String to Uppercase | [convertToUpperString.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/convertToUpperString.py)  |
+| Factorial Number | [factorialNumber.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/factorialNumber.py)  |
+| Fibonacci Series | [fibonacciSeries.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/fibonacciSeries.py)  |
+| Number Frequncy Counter | [frequentElements.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/frequentElements.py)  |
+| HTTP Server | [httpServer.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/httpServer.py)  |
+| ifelse | [ifElse.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/ifElse.py)  |
+| Infinite Loop | [infiniteLoop.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/infiniteLoop.py)  |
+| Longest String in a sentence | [longestString.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/longestString.py)  |
+| Merge Dictionaries | [mergeDict.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/mergeDict.py)  |
+| Merge Lists | [mergeList.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/mergeList.py)  |
+| Merge Sets | [mergeSets.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/mergeSets.py)  |
+| Nested Comprehensive Lists | [nestComprehensiveList.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/nestComprehensiveList.py)  |
+| Octal To Decimal Conversion | [octalToDecimal.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/octalToDecimal.py)  |
+| Quick Sort | [quickSort.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/quickSort.py)  |
+| Random Number List | [randomList.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/randomList.py)  |
+| Reverse List | [reverseList.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/reverseList.py)  |
+| Simple While Loop | [simpleWhileLoop.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/simpleWhileLoop.py)  |
+| Convert String To Byte | [stringToByte.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/stringToByte.py)  |
+| Sum of Consecutive Numbers | [sumOfNconsecutiveNumbers.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/sumOfNconsecutiveNumbers.py)  |
+| Swap Numbers | [swapNumbers.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/swapNumbers.py)  |
+| Generate Timestamps | [timestamp.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/timestamp.py)  |
+| Browser Control using Selenium Example 1 | [web_1.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/web_1.py)  |
+| Browser Control using Selenium Example 2 | [web_2.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/One%20Liner%20Code/web_2.py)  |
