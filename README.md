@@ -30,3 +30,9 @@
 | Open File | [open_file.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/File%20Manager/open_file.py)  |
 | Remove Directory | [remove_directory.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/File%20Manager/remove_directory.py)  |
 | Guess Number | [guessNumber.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/Guess%20Number/guessNumber.py)  |
+| List Comprehension Example 1  | [Example%201.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%201.py)  |
+| List Comprehension Example 2  | [Example%202.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%202.py)  |
+| List Comprehension Example 3  | [Example%203.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%203.py)  |
+| List Comprehension Example 4  | [Example%204.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%204.py)  |
+| List Comprehension Example 5  | [Example%205.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%205.py)  |
+| List Comprehension Example 6  | [Example%206.py](https://github.com/SulemanMughal/Python-Practice-Programmes/blob/main/List%20Comprehensions/Example%206.py)  |
